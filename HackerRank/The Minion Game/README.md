@@ -43,3 +43,5 @@ BANANA
 Sample Output
 
 Stuart 12
+
+출처 : https://www.hackerrank.com/challenges/the-minion-game/problem
