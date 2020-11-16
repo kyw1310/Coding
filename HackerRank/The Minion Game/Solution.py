@@ -17,5 +17,4 @@ def minion_game(string):
         print('Kevin',b)
     else:
         print('Draw')
-    # your code goes here
 
