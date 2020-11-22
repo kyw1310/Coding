@@ -20,7 +20,7 @@ for _ in range(n):
     matrix.append(matrix_item)
 
 #문제에서 if문을 사용하지말고 re를 사용하게끔했으므로 정규표현식으로 찾는다.
-
+#문자와 문자사이에 문자가 아닌것들이 있는 패턴을 찾는다
 p=re.compile('[a-zA-Z0-9][^a-zA-Z0-9]+[a-zA-Z0-9]')
 
 
