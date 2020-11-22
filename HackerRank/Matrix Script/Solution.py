@@ -37,3 +37,4 @@ for i in range(len(kk)):
     result=result.replace(kk[i],kk[i][0]+' '+kk[i][-1])
 print(result)
 
+
