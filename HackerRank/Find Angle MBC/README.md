@@ -2,4 +2,6 @@
 
 <img width="719" alt="스크린샷 2020-11-22 오후 4 45 10" src="https://user-images.githubusercontent.com/36142985/99898156-bc668b00-2ce2-11eb-865f-92822b82a618.png">
 
+<img width="851" alt="스크린샷 2020-11-22 오후 4 57 57" src="https://user-images.githubusercontent.com/36142985/99898324-ebc9c780-2ce3-11eb-80f1-87bde29d5217.png">
+
 출처: https://www.hackerrank.com/challenges/find-angle/problem
