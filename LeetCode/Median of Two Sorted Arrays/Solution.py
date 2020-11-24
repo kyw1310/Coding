@@ -1,7 +1,7 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
         
-        # 문제에서 시간복잡도를 O(log(m+n))으로 제한했기때문에 두 list를 더한 후 sort를 쓰지못하므로 작은수부터 카운트해서 중간지점을  
+        # 문제에서 시간복잡도를 O(log(m+n))으로 제한했기때문에 두 list를 더한 후 sort를 쓰지못하므로 작은수부터 카운트해서 중간지점을 
         
         m=len(nums1)
         n=len(nums2)
