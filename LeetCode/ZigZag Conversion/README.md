@@ -3,6 +3,7 @@
 
 결과:
 
-
+<img width="1274" alt="스크린샷 2020-11-25 오후 11 42 03" src="https://user-images.githubusercontent.com/36142985/100242199-df5d9d00-2f77-11eb-85fb-13e5cd076c36.png">
+<img width="1157" alt="스크린샷 2020-11-25 오후 11 42 11" src="https://user-images.githubusercontent.com/36142985/100242203-e08eca00-2f77-11eb-816e-229c8a243886.png">
 
 출처 : https://leetcode.com/problems/zigzag-conversion/
